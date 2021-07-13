@@ -1,0 +1,14 @@
+[INFO] 2021-07-13 19:51:14,326 System Start
+[INFO] 2021-07-13 19:51:14,326 System End
+[INFO] 2021-07-13 19:51:19,387 System Start
+[DEBUG] 2021-07-13 19:51:19,388 lib_hello args none
+[DEBUG] 2021-07-13 19:51:19,388 lib_hello return value
+[INFO] 2021-07-13 19:51:19,388 System End
+[INFO] 2021-07-13 19:51:25,353 System Start
+[DEBUG] 2021-07-13 19:51:25,353 lib_hello args none
+[DEBUG] 2021-07-13 19:51:25,353 lib_hello return value
+[INFO] 2021-07-13 19:51:25,353 System End
+[INFO] 2021-07-13 19:55:27 System Start
+[DEBUG] 2021-07-13 19:55:27 lib_hello args none
+[DEBUG] 2021-07-13 19:55:27 lib_hello return value
+[INFO] 2021-07-13 19:55:27 System End
